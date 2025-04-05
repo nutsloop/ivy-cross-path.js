@@ -1,13 +1,13 @@
 {
   "name": "@nutsloop/ivy-cross-path",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "license": "Apache-2.0",
   "description": "cross-platform utilities path.",
   "type": "module",
   "main": "index.js",
   "types": "./types/index.d.ts",
   "engines": {
-    "node": "^21"
+    "node": ">=20.0.0"
   },
   "files": [
     "lib",
