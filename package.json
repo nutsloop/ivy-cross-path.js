@@ -1,5 +1,5 @@
 {
-  "name": "@ivy-industries/cross-path",
+  "name": "@nutsloop/ivy-cross-path",
   "version": "1.0.0-alpha.1",
   "license": "Apache-2.0",
   "description": "cross-platform utilities path.",
