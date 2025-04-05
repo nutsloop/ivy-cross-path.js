@@ -23,19 +23,18 @@
     "lint": "npx eslint . --ext .ts",
     "lint-fix": "npx eslint . --ext .ts --fix",
     "tsc-watch": "npx tsc-watch",
-    "update": "npx npm-check-updates -u",
-    "eslint-watch": "npx esw --watch . --ext .ts --fix"
+    "update": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7",
-    "@typescript-eslint/eslint-plugin": "^7.8.0",
-    "@typescript-eslint/parser": "^7.8.0",
-    "eslint": "^8.57.0",
-    "eslint-plugin-perfectionist": "^2.10.0",
-    "eslint-watch": "^8.0.0",
-    "npm-check-updates": "^16.14.20",
-    "tsc-watch": "^6.2.0",
-    "typescript": "^5.4.5"
+    "@eslint/js": "^9.24.0",
+    "@types/node": "^22.14.0",
+    "@typescript-eslint/eslint-plugin": "^8.29.0",
+    "@typescript-eslint/parser": "^8.29.0",
+    "eslint": "^9.24.0",
+    "eslint-plugin-perfectionist": "^4.11.0",
+    "npm-check-updates": "^17.1.16",
+    "tsc-watch": "^6.2.1",
+    "typescript": "^5.8.3"
   },
   "keywords": [
     "path",
@@ -47,17 +46,17 @@
   "funding": [
     {
       "type": "github",
-      "url": "https://github.com/sponsors/ivy-industries"
+      "url": "https://github.com/sponsors/nutsloop"
     }
   ],
   "author": {
-    "name": "ivy-industries",
-    "email": "grow@ivy.run",
-    "url": "https://github.com/ivy-industries"
+    "name": "nutsloop",
+    "email": "nutsloop@proton.me",
+    "url": "https://github.com/nutsloop"
   },
-  "homepage": "https://github.com/ivy-industries/cross-path#readme",
+  "homepage": "https://github.com/nutsloop/ivy-cross-path.js#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivy-industries/cross-path.git"
+    "url": "git+https://github.com/nutsloop/ivy-cross-path.js.git"
   }
 }
